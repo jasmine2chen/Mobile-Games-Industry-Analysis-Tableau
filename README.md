@@ -1,7 +1,7 @@
 # Mobile Games Industry Analysis with Tableau
 
 ## Overview
-The goal of this project is to analyze an open Kaggle open dataset "17K Mobile Strategy Games" with Tableau. I performed data wrangling using Python. I created dashboard to investigate the following relationships:
+The mobile games industry is worth billions of dollars, with companies spending vast amounts of money on the development and marketing of these games. The goal of this project is to analyze a sub-market - strategy games, by using an open Kaggle open dataset "17K Mobile Strategy Games". I performed data wrangling using Python, and created dashboard to investigate the following relationships:
 - Price Yearly Trend
 - Size Yearly Trend
 - Size vs User Rating (Grouped by Genre)
