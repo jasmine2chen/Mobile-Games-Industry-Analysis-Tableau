@@ -8,7 +8,8 @@ The dataset contains 17,007 strategy games on the Apple App Store, and was colle
 
 ## Analysis and Discussions
 
-![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/10%20Overall%20Analysis.PNG)
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Tableau Screen Shot.png)
+Tableau Screen Shot.png
 
 
 
