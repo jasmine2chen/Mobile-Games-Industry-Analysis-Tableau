@@ -1,4 +1,4 @@
-# Mobile-Games-Industry-Analysis-Tableau
+# Mobile Games Industry Analysis with Tableau
 
 ## Overview
 The goal of this project is to analyze an open Kaggle open dataset "17K Mobile Strategy Games" with Tableau. I performed data wrangling using Python. 
@@ -8,8 +8,8 @@ The dataset contains 17,007 strategy games on the Apple App Store, and was colle
 
 ## Analysis and Discussions
 
-![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Tableau Screen Shot.png)
-Tableau Screen Shot.png
+![alt text](https://github.com/jasmine2chen/Mobile-Games-Industry-Analysis-with-Tableau/blob/master/Tableau%20Screen%20Shot.png)
+
 
 
 
