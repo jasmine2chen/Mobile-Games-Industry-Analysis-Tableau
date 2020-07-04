@@ -9,7 +9,8 @@ The mobile games industry is worth billions of dollars, with companies spending 
 - Size vs Price (Grouped by Genre)
 
 ## Dataset
-The dataset contains 17,007 strategy games on the Apple App Store, and was collected on the 3rd of August 2019, using the iTunes API and the App Store sitemap. <https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games>
+The dataset contains 17,007 strategy games on the Apple App Store, and was collected on the 3rd of August 2019, using the iTunes API and the App Store sitemap. 
+[[available here]](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) 
 
 ## Visualization
 
